@@ -15,7 +15,7 @@ const Header = () => {
 
                     <div className='qbs_logo_holder'>
 
-                        <Image src="/qbs_white_logo.png" alt="QBS Logo" width={190} height={65} />
+                        <Image src="/qbs_original_logo.png" alt="QBS Logo" width={190} height={65} />
 
                     </div>
 
